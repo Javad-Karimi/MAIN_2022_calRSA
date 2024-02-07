@@ -15,3 +15,6 @@ Dataset and resulting analyses are from an experiment conducted at McGill Univer
 
 3) Run the kernel to download the data from dropbox:
 <img width="934" alt="MAINworkshop_instruct3" src="https://user-images.githubusercontent.com/62612749/206494729-e8380b42-6ea9-487f-a0ec-43a675cdea17.png">
+
+
+cool!
